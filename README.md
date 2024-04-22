@@ -9,7 +9,7 @@ There are 7 columns for this data: Age, Sex, BMI, # of covered children, Smoker,
 Project contains 
   1. Proposal for data and analysis 
   2. Jupyter Workbook for EDA and modeling 
-  #3. White Paper of project
-  #4. Q & A of project 
-  #5. Presentation with Voice of project 
+  3. White Paper of project
+  4. Q & A of project 
+  5. Presentation with Voice of project 
  
